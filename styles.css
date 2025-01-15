@@ -1,0 +1,81 @@
+
+body {
+    background-color: rgb(196, 244, 100);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.home_title {
+    color: green;
+    background-color: orange;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+a {
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    font-family: 'Tahoma, Geneva, sans-serif';
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: 2cm;
+}
+
+.page_title {
+    color: orange;
+    background-color: green;
+    font-size: 30px;
+    font-family: 'Tahoma, Geneva, sans-serif';
+    text-align: center;
+}
+
+p {
+    color: darkgreen;
+    font-size: 20px;
+    font-family: 'Tahoma, Geneva, sans-serif';
+    text-align: center;
+    margin-left: 2cm;
+}
+h2 {
+    color: darkgreen;
+    font-size: 30px;
+    font-family: 'Tahoma, Geneva, sans-serif';
+    text-align: auto;
+    margin-left: 2cm;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+}
+#ethiopian_dishes {
+    font-size: 20px;
+    font-family: 'Tahoma, Geneva, sans-serif';
+    color: white;
+    list-style-type: lower-greek;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ol {
+    margin-left: 3cm;
+
+    align-self: center;
+    color: darkgreen;
+    font-size: large;
+    font-family: 'Tahoma, Geneva, sans-serif';
+}
+ul {
+    margin-left:3cm;
+    align-content: center;
+    list-style-image: url(images/icon.png);
+    color: darkgreen;
+    font-size: large;
+    font-family: 'Tahoma, Geneva, sans-serif';
+}
